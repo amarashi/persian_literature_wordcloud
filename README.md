@@ -1,4 +1,4 @@
-# persian_literature_wordcloud
+# Persian Literature Word Cloud
 
 A simple shiny app to represent the most common words used by some of the most famous Persian poets and writers. 
 I am going to add some classification using Latent Dirichlet Allocation as well.
